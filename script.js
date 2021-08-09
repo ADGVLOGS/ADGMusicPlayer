@@ -26,22 +26,6 @@ new Vue({
           favorited: "false",
         },
         {
-          name: "Plastic Memories Ending Fb Hardanime",
-          artist: "Hardanime Fb",
-          cover: "https://i1.sndcdn.com/artworks-000119418000-7zgsyn-original.jpg",
-          source: "https://github.com/ADGVLOGS/ADGMusicPlayer/blob/main/music/plastic-memories-ending-fb-hardanime.mp3?raw=true",
-          url: "https://soundcloud.com/hardanime-fb/plastic-memories-ending-fb-hardanime",
-          favorited: "false",
-        },
-        {
-          name: "Dianas Heart",
-          artist: "Maisonorange",
-          cover: "https://i1.sndcdn.com/artworks-acy8yVKyIetmycYE-5vHzXg-original.jpg",
-          source: "https://github.com/ADGVLOGS/ADGMusicPlayer/blob/main/music/dianas-heart.mp3?raw=true",
-          url: "https://soundcloud.com/maisonorange/dianas-heart",
-          favorited: "false",
-        },
-        {
           name: "Grant Are We Still Young",
           artist: "Grantsongs",
           cover: "https://i1.sndcdn.com/artworks-000224494934-ap4s68-original.jpg",
