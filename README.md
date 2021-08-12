@@ -1,7 +1,7 @@
 # Web - ADGMusicPlayer
 
 #### Motivation
-I wanted to experiment by makeing a streaming service which can stream music and what could be a better way than putting my SoundCloud likes on the app.
+I wanted to experiment by making a streaming service which can stream music and what could be a better way than putting my SoundCloud likes on the app.
 
 #### Legal Issues
 <p>I am assuming SoundCloud is open source with their music as there are many individual artists and freelance artists on that platform including myself who made few songs back in the day playing with Logic Pro X. 
