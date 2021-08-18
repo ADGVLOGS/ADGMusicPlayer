@@ -6842,7 +6842,7 @@ new Vue({
                    favorited: "false",
         }
       ],
-        
+      tracks = tracks.sort(() => Math.random() - 0.5) 
       currentTrack: null,
       currentTrackIndex: 0,
       transitionName: null
